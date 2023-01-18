@@ -1,0 +1,45 @@
+.Container{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+.Container img{
+    border: 10px black solid;
+    margin: 20px 20px 20px 20px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.Container2{
+    background-color: brown;
+    display: flex;
+    justify-content: center;
+}
+
+.Container2 img{
+    border: 10px black solid;
+    margin: 20px 20px 20px 20px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+}
+
+.Container2 h1{
+    display: flex;
+    justify-content: center;
+}
+
+.Container h1{
+    display: flex;
+    justify-content: center;
+}
+
+header{
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: brown;
+}
